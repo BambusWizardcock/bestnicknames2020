@@ -16,3 +16,13 @@ body {
   display: table-cell;
   vertical-align: middle;
 }
+
+.ads li {
+  border: 1px solid;
+  padding: 1em;
+  margin-top: 1em;
+}
+
+.ads {
+  width: 50%;
+}
